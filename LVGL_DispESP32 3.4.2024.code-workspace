@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"lvgl.h": "c",
+			"*.tcc": "cpp",
+			"ctime": "cpp",
+			"iomanip": "cpp",
+			"limits": "cpp",
+			"numeric": "cpp",
+			"streambuf": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
